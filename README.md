@@ -1,10 +1,10 @@
 ### I'm Matt, a software engineering student 👨‍💻 studying at the University of Guelph 📚
   
 
-- 🔭 I’m currently working on [ChefGPT](https://github.com/m-mcardle/ChefGPT)  
+- 🔭 I’m currently working on [My Website](https://github.com/m-mcardle/website)  
   
 
-- 🌱 I’m currently learning **Svelte**  
+- 🌱 I’m currently learning **Nuxt**  
   
 
 <br/>  
