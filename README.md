@@ -1,4 +1,4 @@
-### I'm Matt, a software engineering student 👨‍💻 studying at the University of Guelph 📚
+### I'm Matt, a software engineering graduate 👨‍💻 from the University of Guelph 📚
   
 
 - 🔭 I’m currently working on [My Website](https://github.com/m-mcardle/website)  
